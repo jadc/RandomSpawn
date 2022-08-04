@@ -1,0 +1,6 @@
+name: RandomSpawn
+version: '${project.version}'
+main: red.jad.randomspawn.RandomSpawn
+api-version: 1.19
+authors: [ jadc ]
+description: Spawns new players in a random location, and nothing else
